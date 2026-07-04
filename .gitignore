@@ -28,9 +28,6 @@ fp-info-cache
 *.xml
 *.csv
 
-# Brainstorming / planning artifacts (not for publication)
-Docs/superpowers/
-
 # Temporary working files
 .tracked_files.txt
 *.DS_Store
